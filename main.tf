@@ -1,7 +1,7 @@
 
 variable "var1" {
     type = list
-    default = ["mynetworkp1" , "mynetwork2" , "mynetwork3"]
+    default = ["mynetworkp11" , "mynetwork12" , "mynetwork13"]
 }
 
 
